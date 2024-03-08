@@ -1,0 +1,7 @@
+APP_ABI := @APP_ABI@
+#APP_MODULES = static_shore
+#Define this in order to use the dnk stlport.
+APP_STL := c++_shared
+APP_PLATFORM := @APP_PLATFORM@
+APP_OPTIM := @APP_OPTIM@
+

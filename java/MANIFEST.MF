@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: 11.0.15 (Oracle Corporation)
+Main-Class: ShoreCmdline
+Class-Path: . ShoreJavaWrapper.jar
+
